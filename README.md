@@ -28,8 +28,7 @@ A robust full-stack web application for managing employee payroll, attendance, a
 - **State:** Manage leave request statuses
 - **Singleton:** Single DB connection instance
 
-## 📸 Screenshots
-_Add screenshots of dashboard, payroll page, attendance form here._
+
 
 ## 🛠️ How to Run
 ```bash
